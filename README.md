@@ -16,8 +16,11 @@
 
 ## Tech stack
 Python: The programming language used to build the game.
+
 Tkinter: A Python library for creating graphical user interfaces (GUI), used for rendering the game canvas, ball, and paddles.
+
 random: A built-in Python library to shuffle the starting direction of the ball and add some randomness to the game mechanics.
+
 time: Used for controlling the game loop speed.
 
 ### How to Run:
